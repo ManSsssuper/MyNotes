@@ -1,4 +1,5 @@
 #生成散点图
+from torch import nn
 def use_svg_display():
     display.set_matplotlib_formats('svg')
 def set_figsize(figsize=(3.5,2.5)):
@@ -63,3 +64,13 @@ class FlattenLayer(nn.Module):
         super(FlattenLayer, self).__init__()
     def forward(self, x): # x shape: (batch, *, *, ...)
         return x.view(x.shape[0], -1)
+# 本函数已保存在d2lzh_pytorch包中⽅方便便以后使⽤用
+def semilogy(x_vals, y_vals,x_label,y_label,x2_vals=None,y2_vals=None,legend=None, figsize=(3.5, 2.5)):
+    d2l.set_figsize(figsize)
+    d2l.plt.xlabel(x_label)
+    d2l.plt.ylabel(y_label)
+    d2l.plt.semilogy(x_vals, y_vals)
+    if x2_vals and y2_vals:
+        d2l.plt.semilogy(x2_vals, y2_vals, linestyle=':')
+        d2l.plt.legend(legend)
+  
