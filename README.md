@@ -237,4 +237,18 @@
       <td> - </td>
       <td>进行新一轮的论文阅读</td>
   </tr>
+  <tr>
+      <td>Information Cascades Modeling via Deep Multi-Task Learning</td>
+      <td>方法</td>
+      <td>11/26/2019 1:32:18 PM  </td>
+      <td> 11/26/2019 3:05:24 PM  </td>
+      <td>信息级联预测相关，但是不是多任务学习为主体，其中的Attention是正常的attention</td>
+  </tr>
+  <tr>
+      <td>CVPR两篇论文看一哈</td>
+      <td>方法</td>
+      <td>11/26/2019 3:09:19 PM </td>
+      <td>- </td>
+      <td>23. CVPR19. Gao_NDDR-CNN_Layerwise_Feature_Fusing_in_Multi-Task_CNNs_by_Neural_Discriminative_CVPR_2019_paper 22. CVPR19. Liu_End-To-End_Multi-Task_Learning_With_Attention_CVPR_2019_paper</td>
+  </tr>
 </table>
