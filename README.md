@@ -248,7 +248,14 @@
       <td>CVPR两篇论文看一哈</td>
       <td>方法</td>
       <td>11/26/2019 3:09:19 PM </td>
-      <td>- </td>
+      <td>11/29/2019 2:59:50 PM  </td>
       <td>23. CVPR19. Gao_NDDR-CNN_Layerwise_Feature_Fusing_in_Multi-Task_CNNs_by_Neural_Discriminative_CVPR_2019_paper 22. CVPR19. Liu_End-To-End_Multi-Task_Learning_With_Attention_CVPR_2019_paper</td>
+  </tr>
+  <tr>
+      <td>Latent Multi-Task Architecture Learning</td>
+      <td>方法</td>
+      <td>11/29/2019 3:00:58 PM </td>
+      <td>- </td>
+      <td>AAAI的论文</td>
   </tr>
 </table>
