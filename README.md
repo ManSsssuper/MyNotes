@@ -258,4 +258,25 @@
       <td>- </td>
       <td>AAAI的论文</td>
   </tr>
+  <tr>
+      <td>Meta Multi-Task Learning for Sequence Modeling</td>
+      <td>方法</td>
+      <td>11/29/2019 3:00:58 PM </td>
+      <td>- </td>
+      <td>AAAI的论文，算是应用</td>
+  </tr>
+  <tr>
+      <td>Learning Multiple Tasks with Multilinear Relationship Networks</td>
+      <td>方法</td>
+      <td>11/29/2019 3:00:58 PM </td>
+      <td>- </td>
+      <td>NIPS老论文</td>
+  </tr>
+  <tr>
+      <td>Learning Tree Structure in Multi-Task Learning</td>
+      <td>方法</td>
+      <td>11/29/2019 3:00:58 PM </td>
+      <td>- </td>
+      <td>KDD15老论文</td>
+  </tr>
 </table>
