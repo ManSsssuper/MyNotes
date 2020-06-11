@@ -1,2 +1,0 @@
-#### 3、将LR与adaboost组合  
-https://blog.csdn.net/mgl8887/article/details/93983195
